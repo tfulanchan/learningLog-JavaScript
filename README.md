@@ -1,2 +1,2 @@
-# learningLog-JavaScript
+# learn-intermediate-javascript
 history
